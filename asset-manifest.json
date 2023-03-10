@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Login-Page/static/css/main.e0bf105f.css",
-    "main.js": "/Login-Page/static/js/main.80c4cc45.js",
-    "static/js/787.3e128b3f.chunk.js": "/Login-Page/static/js/787.3e128b3f.chunk.js",
-    "index.html": "/Login-Page/index.html",
-    "main.e0bf105f.css.map": "/Login-Page/static/css/main.e0bf105f.css.map",
-    "main.80c4cc45.js.map": "/Login-Page/static/js/main.80c4cc45.js.map",
-    "787.3e128b3f.chunk.js.map": "/Login-Page/static/js/787.3e128b3f.chunk.js.map"
+    "main.css": "/Fake-Login-Page/static/css/main.e0bf105f.css",
+    "main.js": "/Fake-Login-Page/static/js/main.db3310fa.js",
+    "static/js/787.3e128b3f.chunk.js": "/Fake-Login-Page/static/js/787.3e128b3f.chunk.js",
+    "index.html": "/Fake-Login-Page/index.html",
+    "main.e0bf105f.css.map": "/Fake-Login-Page/static/css/main.e0bf105f.css.map",
+    "main.db3310fa.js.map": "/Fake-Login-Page/static/js/main.db3310fa.js.map",
+    "787.3e128b3f.chunk.js.map": "/Fake-Login-Page/static/js/787.3e128b3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0bf105f.css",
-    "static/js/main.80c4cc45.js"
+    "static/js/main.db3310fa.js"
   ]
 }
