@@ -1,3 +1,13 @@
+# Login/Signup Page
+
+A very simple login/signup page made with React, Chakra UI and React Router.
+
+This program is purely front-end, so no credentials are stored and no authentication is performed.
+
+React Router is used to switch between the login and signup page.
+
+(No data is collected.)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
