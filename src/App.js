@@ -12,10 +12,11 @@ import {
   Button,
   Checkbox,
   useMediaQuery,
+  Text,
+  Link
 } from "@chakra-ui/react";
 import { Formik, Field } from "formik";
 import { SunIcon, MoonIcon } from "@chakra-ui/icons";
-import { useState } from "react";
 
 import "./App.css";
 
@@ -159,6 +160,7 @@ export default function App() {
           )}
         </Formik>
       </Container>
+      <Text fontSize="0.7rem" mt={5}>&copy; Shayan Ali (<Link href="https://github.com/SA9102" target="_blank">SA9102</Link>)</Text>
     </Box>
   );
 }
