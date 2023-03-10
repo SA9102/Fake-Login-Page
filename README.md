@@ -4,6 +4,12 @@ A very simple login page made with React, Chakra UI and Formik.
 
 This program is purely front-end, so no credentials are stored and no authentication is performed. Only simple validation is performed.
 
+[View this project on GitHub Pages.](https://sa9102.github.io/Fake-Login-Page/)
+
+Date of completion: 10th March 2023
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
