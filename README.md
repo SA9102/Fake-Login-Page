@@ -1,4 +1,4 @@
-# Login/Signup Page
+# Fake Login Page
 
 A very simple login page made with React, Chakra UI and Formik.
 
